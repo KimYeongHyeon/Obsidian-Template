@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "092274114048fe4b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "__attachments__/homepage.png"
-              },
-              "icon": "lucide-image",
-              "title": "homepage"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +137,7 @@
       {
         "id": "5156b97674ac8610",
         "type": "tabs",
-        "dimension": 33.83600377002828,
+        "dimension": 54.51923076923077,
         "children": [
           {
             "id": "4f0f5f9d6f09b740",
@@ -158,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__attachments__/homepage.png",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for homepage"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -211,36 +198,6 @@
             }
           },
           {
-            "id": "770b571a8e5c5db1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "90f2fcc275648921",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ee83e20650892dd2",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "c6bbbd8c7debd4e7",
             "type": "leaf",
             "state": {
@@ -256,7 +213,7 @@
       {
         "id": "08c42caa6f0d0909",
         "type": "tabs",
-        "dimension": 66.16399622997172,
+        "dimension": 45.48076923076923,
         "children": [
           {
             "id": "ed25b4229c6ee0fc",
@@ -292,12 +249,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "092274114048fe4b",
+  "active": "724e0b1a9c293457",
   "lastOpenFiles": [
+    "__attachments__/homepage.png",
     "__attachments__/duedate.png",
     "Homepage.md",
     "Work/Projects/Secret_Project/Secret_Project.md",
-    "__attachments__/homepage.png",
     "README.md",
     "__attachments__/do-you-trust.png",
     "__Templates/Diary Template.md",
