@@ -27,12 +27,14 @@
             "id": "092274114048fe4b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "__attachments__/homepage.png"
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "homepage"
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ],
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__attachments__/homepage.png",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for homepage"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -167,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__attachments__/homepage.png",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from homepage"
+              "title": "Outgoing links from Homepage"
             }
           },
           {
@@ -194,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__attachments__/homepage.png"
+                "file": "Homepage.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of homepage"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -273,8 +275,8 @@
   },
   "active": "092274114048fe4b",
   "lastOpenFiles": [
-    "Homepage.md",
     "__attachments__/homepage.png",
+    "Homepage.md",
     "README.md",
     "__attachments__/do-you-trust.png",
     "__Templates/Diary Template.md",

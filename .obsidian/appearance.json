@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "baseFontSize": 24,
   "enabledCssSnippets": [
     "dashboard"
