@@ -1,0 +1,16 @@
+/* 홈페이지에만 적용되는 스타일 */
+[data-file-name="Homepage"] .markdown-preview-view {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding: 20px;
+}
+
+[data-file-name="Homepage"] .markdown-preview-view > div {
+  flex: 1;
+  min-width: 300px;
+  background: var(--background-secondary);
+  padding: 16px;
+  border-radius: 8px;
+}

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f130e78f922ea78",
+        "id": "b1d1acc0191d61c5",
         "type": "tabs",
         "children": [
           {
-            "id": "724e0b1a9c293457",
+            "id": "ef59d44a3e4f955a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -137,7 +137,7 @@
       {
         "id": "5156b97674ac8610",
         "type": "tabs",
-        "dimension": 54.51923076923077,
+        "dimension": 54.51923076923076,
         "children": [
           {
             "id": "4f0f5f9d6f09b740",
@@ -206,6 +206,16 @@
               "icon": "clock",
               "title": "Reminders"
             }
+          },
+          {
+            "id": "46c9dfcfd96d822e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 2
@@ -213,7 +223,7 @@
       {
         "id": "08c42caa6f0d0909",
         "type": "tabs",
-        "dimension": 45.48076923076923,
+        "dimension": 45.48076923076924,
         "children": [
           {
             "id": "ed25b4229c6ee0fc",
@@ -243,17 +253,17 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "card-board:CardBoard": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "724e0b1a9c293457",
+  "active": "ef59d44a3e4f955a",
   "lastOpenFiles": [
+    "Homepage.md",
     "__attachments__/homepage.png",
     "__attachments__/duedate.png",
-    "Homepage.md",
     "Work/Projects/Secret_Project/Secret_Project.md",
     "README.md",
     "__attachments__/do-you-trust.png",
