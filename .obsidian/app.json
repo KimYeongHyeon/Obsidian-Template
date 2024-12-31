@@ -5,10 +5,7 @@
   "promptDelete": false,
   "showFrontmatter": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-GB",
-    "hr"
-  ],
+  "spellcheckLanguages": null,
   "readableLineLength": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true

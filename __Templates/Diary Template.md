@@ -5,12 +5,10 @@ type: dailytodo
 tags: #todo #todolist 
 ---
 
+
 > [!  ]+ Today
 >  date::  <% tp.file.creation_date() %> 
 > location::  🏭  
-> start time::  
-> leave time::  
-> Zagreb:   <% tp.user.getWeatherShort() %>
 
 ## Tasks 📝
 ```button

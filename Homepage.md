@@ -1,11 +1,5 @@
 
 ---
-cssclass: dashboard
-banner: "![[cro.png]]"
-banner_lock: false
-banner_y: 0.42601
----
-
 # Work
 - 💼 Projects  
 	-  [[Secret_Project]]

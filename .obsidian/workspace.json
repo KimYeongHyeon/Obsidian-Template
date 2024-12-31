@@ -18,19 +18,21 @@
                 "mode": "preview",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           },
           {
             "id": "092274114048fe4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Diary/Diary-20230312.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "__attachments__/homepage.png"
+              },
+              "icon": "lucide-image",
+              "title": "homepage"
             }
           }
         ],
@@ -46,6 +48,7 @@
       {
         "id": "f3f71c0cc5a2bf15",
         "type": "tabs",
+        "dimension": 79.95991983967936,
         "children": [
           {
             "id": "28ba4a3f69712a8b",
@@ -54,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,28 +84,54 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9cc69511514858a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b616f4a55574935f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5df69992e29d80ff",
         "type": "tabs",
+        "dimension": 20.04008016032064,
         "children": [
           {
             "id": "5d212083dab5a2de",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 668.5
+    "width": 297.5
   },
   "right": {
     "id": "a27c1a547729005e",
@@ -115,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Diary-20230312.md",
+                "file": "__attachments__/homepage.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +156,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for homepage"
             }
           },
           {
@@ -132,10 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Diary-20230312.md",
+                "file": "__attachments__/homepage.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from homepage"
             }
           },
           {
@@ -146,7 +183,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -155,8 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Diary-20230312.md"
-              }
+                "file": "__attachments__/homepage.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of homepage"
             }
           },
           {
@@ -164,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -172,11 +215,22 @@
             "type": "leaf",
             "state": {
               "type": "reminder-list",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ee83e20650892dd2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "08c42caa6f0d0909",
@@ -188,14 +242,16 @@
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
-              "state": {}
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,34 +265,37 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "092274114048fe4b",
   "lastOpenFiles": [
-    "Diary/Diary-20230319.md",
+    "Homepage.md",
+    "__attachments__/homepage.png",
     "README.md",
+    "__attachments__/do-you-trust.png",
+    "__Templates/Diary Template.md",
+    "__attachments__/duedate.png",
+    "Diary/Diary-20230312.md",
+    "__Unsorted/__attachments__/cro.png",
+    "Diary/Diary-20230319.md",
     "__Templates/Project Template.md",
     "__Templates/Person Template.md",
     "__Templates/Location Template.md",
-    "__Templates/Diary Template.md",
     "__Templates/Company Template.md",
     "__Templates/Company Role Template.md",
-    "__attachments__/do-you-trust.png",
     "__Unsorted/Pasted image 20230319165420.png.md",
-    "Homepage.md",
     "__attachments__/person_look.png",
     "__attachments__/Pasted image 20230319170705.png",
     "__attachments__/task_look.png",
     "__attachments__/task_name.png",
     "__attachments__/set_prior.png",
     "__attachments__/Pasted image 20230319170028.png",
-    "__attachments__/duedate.png",
-    "__attachments__/reminder.png",
-    "__attachments__/Pasted image 20230319165420.png",
     "__attachments__/new_day.png.md",
     "Work/People/Person B.md",
-    "Diary/Diary-20230312.md",
     "__Tasks/Tasks.md",
     "__attachments__/homepage.png.md",
     "__attachments___",
