@@ -1,19 +1,33 @@
 {
-  "version": "0.10.0",
+  "version": "0.13.0",
   "data": {
-    "boardConfigs": [],
+    "boardConfigs": [
+      {
+        "columns": [],
+        "filters": [],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "Unnamed",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      }
+    ],
     "globalSettings": {
-      "taskCompletionFormat": "ObsidianCardBoard",
-      "columnNames": {
+      "defaultColumnNames": {
         "today": "",
         "tomorrow": "",
         "future": "",
         "undated": "",
-        "others": "",
+        "otherTags": "",
         "untagged": "",
         "completed": ""
       },
-      "ignoreFileNameDates": false
+      "filters": [],
+      "firstDayOfWeek": "FromLocale",
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": true
     }
   }
 }

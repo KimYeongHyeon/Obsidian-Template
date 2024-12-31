@@ -14,11 +14,12 @@
   "obsidian-banners",
   "obsidian-hider",
   "obsidian-tasks-plugin",
-  "card-board",
   "nldates-obsidian",
   "auto-note-mover",
   "obsidian-image-toolkit",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "file-tree-alternative"
+  "file-tree-alternative",
+  "settings-management",
+  "card-board"
 ]

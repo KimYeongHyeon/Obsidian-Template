@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "5e993d72c7990866",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,9 +120,19 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
+          },
+          {
+            "id": "4de1d320c981bedb",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "5df69992e29d80ff",
@@ -208,8 +228,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -224,6 +244,16 @@
           },
           {
             "id": "ee83e20650892dd2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c6bbbd8c7debd4e7",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -273,10 +303,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "092274114048fe4b",
+  "active": "5e993d72c7990866",
   "lastOpenFiles": [
-    "__attachments__/homepage.png",
+    "Work/Projects/Secret_Project/Secret_Project.md",
     "Homepage.md",
+    "__attachments__/homepage.png",
     "README.md",
     "__attachments__/do-you-trust.png",
     "__Templates/Diary Template.md",
