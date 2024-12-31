@@ -262,7 +262,8 @@
               "title": "Reminders"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "08c42caa6f0d0909",
@@ -303,7 +304,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5e993d72c7990866",
+  "active": "445ca5d1c0bab63c",
   "lastOpenFiles": [
     "Work/Projects/Secret_Project/Secret_Project.md",
     "Homepage.md",

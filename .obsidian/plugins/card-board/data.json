@@ -7,7 +7,7 @@
         "filters": [],
         "filterPolarity": "Allow",
         "filterScope": "Both",
-        "name": "Unnamed",
+        "name": "test",
         "showColumnTags": true,
         "showFilteredTags": true
       }
