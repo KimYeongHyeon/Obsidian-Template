@@ -1,59 +1,7 @@
 {
   "version": "0.13.0",
   "data": {
-    "boardConfigs": [
-      {
-        "columns": [],
-        "filters": [],
-        "filterPolarity": "Allow",
-        "filterScope": "Both",
-        "name": "test",
-        "showColumnTags": true,
-        "showFilteredTags": true
-      },
-      {
-        "columns": [],
-        "filters": [],
-        "filterPolarity": "Allow",
-        "filterScope": "Both",
-        "name": "1",
-        "showColumnTags": true,
-        "showFilteredTags": true
-      },
-      {
-        "columns": [
-          {
-            "tag": "untagged",
-            "data": {
-              "collapsed": false,
-              "name": "Untagged"
-            }
-          },
-          {
-            "tag": "otherTags",
-            "data": {
-              "collapsed": false,
-              "name": "Other Tags"
-            }
-          },
-          {
-            "tag": "completed",
-            "data": {
-              "collapsed": false,
-              "index": 2,
-              "limit": 10,
-              "name": "Completed"
-            }
-          }
-        ],
-        "filters": [],
-        "filterPolarity": "Allow",
-        "filterScope": "Both",
-        "name": "22",
-        "showColumnTags": true,
-        "showFilteredTags": true
-      }
-    ],
+    "boardConfigs": [],
     "globalSettings": {
       "defaultColumnNames": {
         "today": "",

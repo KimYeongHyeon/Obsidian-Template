@@ -1,8 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#a2cbe2",
   "cssTheme": "Minimal",
   "baseFontSize": 24,
   "enabledCssSnippets": [
     "dashboard"
-  ]
+  ],
+  "theme": "obsidian"
 }
