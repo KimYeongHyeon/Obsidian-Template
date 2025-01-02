@@ -47,7 +47,7 @@ WHERE contains(text, this.file.name)
 
 ### ✅ Tasks Done
 ```dataview
-table without id "[[" + file.name + "#^" + L.blockId + "|" + file.name + "]]" as "Date", regexreplace(L.text, "^\[\[.*?\]\]\s*", "") as List
+table without id "[[" + file.name + "|" + file.name + "]]" as "Date", regexreplace(L.text, "^\[\[.*?\]\]\s*", "") as List
 from "Diary"
 flatten file.lists as L
 where contains(this.file.inlinks, file.link) and contains(L.text, this.file.name)
