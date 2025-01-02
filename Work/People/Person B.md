@@ -10,7 +10,7 @@ tag: #people #person
 ---
 ## Info 📑
 
-- 🏢 [company:: [[Boring Company]] ] 
+- 🏢 [company:: [[DB손해보험]] ] 
 - 🤠 [company-role:: [[Role_Software_Developer]] ] 
 -  🖥️ [office-location:: [[San Francisco]] ]
 - 📩 [e-mail::  ]
