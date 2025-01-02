@@ -10,11 +10,11 @@ company-name: DB손해보험
 ## Info 📑
 
 - [project-name:: ZenAI100 ] 
-- [project-start:: ]
+- [project-start:: 2024-07-30]
 - [project-end:: ]
 - [project-members::  ] 
 - [project-pm::  ]
-- [project-description::  ]
+- [project-description::  생성형AI의 급진적인 성장에 따른 사내에 생성형AI 문화 확산]
 
 
 ##  🌅 Meetings
@@ -41,8 +41,9 @@ SORT row.file.day desc
 ```dataview
 TASK
 from !"__Templates"
-WHERE contains(type, "dailytodo") and !completed
-WHERE contains(text, this.name)
+// WHERE contains(type, "dailytodo")
+WHERE !completed
+WHERE contains(text, this.file.name)
 ```
 
 

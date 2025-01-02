@@ -1,3 +1,3 @@
-- [ ] Tutorial about obsidian: [link](www,obsidian.com)
-- [ ] tutorial about obisidan canvas [link]()
+<del>- [ ] Tutorial about obsidian: [link](www,obsidian.com)</del>
+<del>- [ ] tutorial about obisidan canvas [link]()</del>
 
