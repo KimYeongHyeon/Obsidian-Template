@@ -1,14 +1,14 @@
 ---
-creation-date: <% tp.file.creation_date() %>
-modification-date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+creation-date: 2024-12-31 16:14
+modification-date: Thursday 2nd January 2025 10:57:18
 type: project
 tags: 
-project-name: <% tp.file.title %>
+project-name: Secret_Project
 ---
  
 ## Info 📑
 
-- [project-name:: <% tp.file.title%> ] 
+- [project-name:: Secret_Project ] 
 - [project-start:: ]
 - [project-end:: ]
 - [project-members::  [[Person A]], [[Person B]] ] 

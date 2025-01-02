@@ -8,7 +8,7 @@ project-name: <% tp.file.title %>
  
 ## Info 📑
 
-- [project-name::  ] 
+- [project-name:: <% tp.file.title %> ] 
 - [project-start:: ]
 - [project-end:: ]
 - [project-members::  [[Person A]], [[Person B]] ] 
