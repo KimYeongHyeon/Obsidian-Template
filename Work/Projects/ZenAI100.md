@@ -1,19 +1,19 @@
 ---
-creation-date: <% tp.file.creation_date() %>
-modification-date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+creation-date: 2025-01-02 17:35
+modification-date: Thursday 2nd January 2025 17:35:53
 type: project
 tags: 
-project-name: <% tp.file.title %>
-company-name:
+project-name: ZenAI100
+company-name: DB손해보험
 ---
  
 ## Info 📑
 
-- [project-name:: <% tp.file.title %> ] 
+- [project-name:: ZenAI100 ] 
 - [project-start:: ]
 - [project-end:: ]
-- [project-members::  [[Person A]], [[Person B]] ] 
-- [project-pm:: [[Person A]] ]
+- [project-members::  ] 
+- [project-pm::  ]
 - [project-description::  ]
 
 

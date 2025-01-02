@@ -24,48 +24,6 @@
             }
           },
           {
-            "id": "980ed6bf9dc17ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Tasks/Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "16656066c68397b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Templates/Meetings/Standard Meeting Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Standard Meeting Template"
-            }
-          },
-          {
-            "id": "38d71583f96f16c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Diary-20250102.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diary-20250102"
-            }
-          },
-          {
             "id": "136a3580c5b4250e",
             "type": "leaf",
             "state": {
@@ -74,9 +32,23 @@
               "icon": "card-board",
               "title": "CardBoard"
             }
+          },
+          {
+            "id": "c9e21f41e4a95d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/ZenAI100.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZenAI100"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Diary-20250102.md"
+                "file": "Work/Projects/ZenAI100.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Diary-20250102"
+              "title": "Outline of ZenAI100"
             }
           },
           {
@@ -277,23 +249,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "136a3580c5b4250e",
+  "active": "c9e21f41e4a95d64",
   "lastOpenFiles": [
-    "__Unsorted/Test Project.md",
-    "Diary/Diary-20250102.md",
-    "Work/Projects/Secret_Project/Secret_Project.md",
-    "__Templates/Meetings/Standard Meeting Template.md",
-    "__Templates/Meetings/1on1 Meeting Template.md",
-    "__Templates/Location Template.md",
-    "__Templates/Meetings/Problem Solving Meeting Template.md",
-    "test.md",
-    "Work/Projects/Secret_Project/Meeting/MoM 20230301.md",
-    "Learning/Check out  later.md",
-    "__Templates/Project Template.md",
-    "__Tasks/Tasks.md",
     "Homepage.md",
+    "__Tasks/Tasks.md",
+    "__Templates/Meetings/Standard Meeting Template.md",
+    "__Templates/Project Template.md",
+    "__Templates/Location Template.md",
     "__Templates/Diary Template.md",
     "__Templates/Company Template.md",
+    "Work/Projects/ZenAI100.md",
+    "Diary/Diary-20250102.md",
+    "Work/Projects/Secret_Project/Meeting/MoM 20230301.md",
+    "__Unsorted/Test Project.md",
+    "Work/Projects/Secret_Project/Secret_Project.md",
+    "__Templates/Meetings/1on1 Meeting Template.md",
+    "__Templates/Meetings/Problem Solving Meeting Template.md",
+    "test.md",
+    "Learning/Check out  later.md",
     "__Templates/Company Role Template.md",
     "__Templates/Person Template.md",
     "__attachments__/homepage.png",
@@ -319,7 +292,6 @@
     "ss.txt",
     "__attachments__",
     "Diary/Diary-20230313.md",
-    "__Unsorted/www.gol.hr.md",
     "Work/Projects/Secret_Project/Meeting",
     "Day Planners",
     "__Tasks",
