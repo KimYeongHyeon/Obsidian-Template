@@ -59,7 +59,7 @@
               "state": {
                 "file": "Diary/Diary-20250102.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Diary-20250102"
@@ -233,10 +233,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Unsorted/Test Project.md"
+                "file": "Diary/Diary-20250102.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Project"
+              "title": "Outline of Diary-20250102"
             }
           },
           {
@@ -287,10 +287,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d51af150ea1166cf",
+  "active": "38d71583f96f16c2",
   "lastOpenFiles": [
-    "Diary/Diary-20250102.md",
     "__Unsorted/Test Project.md",
+    "Diary/Diary-20250102.md",
     "Work/Projects/Secret_Project/Secret_Project.md",
     "__Templates/Meetings/Standard Meeting Template.md",
     "__Templates/Meetings/1on1 Meeting Template.md",

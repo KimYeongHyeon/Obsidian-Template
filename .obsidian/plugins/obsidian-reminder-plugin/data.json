@@ -31,6 +31,11 @@
         "title": "%%[created:: 2025-01-02] %%  ** test **",
         "time": "2025-01-01 12:00",
         "rowNumber": 11
+      },
+      {
+        "title": "%%[created:: 2025-01-02] %%  ** [[Test Project]] DODO **",
+        "time": "2025-01-02 12:00",
+        "rowNumber": 12
       }
     ]
   },

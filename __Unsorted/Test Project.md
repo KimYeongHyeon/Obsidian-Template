@@ -41,7 +41,7 @@ SORT row.file.day desc
 TASK
 from !"__Templates"
 WHERE contains(type, "dailytodo") and !completed
-WHERE contains(text, this.name)
+WHERE contains(text, this.file.name)
 ```
 
 
