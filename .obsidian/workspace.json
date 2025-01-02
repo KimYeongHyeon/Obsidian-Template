@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Diary-20250102.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diary-20250102"
+              "title": "test"
             }
           }
         ],
@@ -234,10 +234,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Diary-20250102.md"
+                "file": "__Unsorted/Test Project.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Diary-20250102"
+              "title": "Outline of Test Project"
             }
           },
           {
@@ -288,11 +288,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "16656066c68397b6",
+  "active": "38d71583f96f16c2",
   "lastOpenFiles": [
-    "Learning/Check out  later.md",
-    "Diary/Diary-20250102.md",
+    "test.md",
     "__Unsorted/Test Project.md",
+    "Work/Projects/Secret_Project/Meeting/MoM 20230301.md",
+    "Diary/Diary-20250102.md",
+    "Learning/Check out  later.md",
     "Work/Projects/Secret_Project/Secret_Project.md",
     "__Templates/Project Template.md",
     "__Templates/Meetings/1on1 Meeting Template.md",
@@ -329,8 +331,6 @@
     "Diary/Diary-20230313.md",
     "__Unsorted/www.gol.hr.md",
     "__Unsorted/Untitled 3.md",
-    "__Unsorted/2023-03-12.md",
-    "__Unsorted/Untitled 2.md",
     "Work/Projects/Secret_Project/Meeting",
     "Day Planners",
     "__Tasks",
