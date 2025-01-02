@@ -50,9 +50,23 @@
               "icon": "lucide-file",
               "title": "Diary-20250102"
             }
+          },
+          {
+            "id": "4a2a5bda1b18241e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Templates/Project Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Template"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "8d8df4ad4aaa25ef",
@@ -64,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Unsorted/Test Project.md",
+                "file": "Work/Projects/Secret_Project/Secret_Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Project"
+              "title": "Secret_Project"
             }
           }
         ]
@@ -219,10 +233,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Diary-20250102.md"
+                "file": "__Templates/Project Template.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Diary-20250102"
+              "title": "Outline of Project Template"
             }
           },
           {
@@ -273,19 +287,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "16656066c68397b6",
+  "active": "4a2a5bda1b18241e",
   "lastOpenFiles": [
-    "__Tasks/Tasks.md",
+    "Work/Projects/Secret_Project/Secret_Project.md",
+    "__Templates/Meetings/1on1 Meeting Template.md",
     "Diary/Diary-20250102.md",
     "__Unsorted/Test Project.md",
+    "__Tasks/Tasks.md",
     "Homepage.md",
     "__Templates/Project Template.md",
     "__Templates/Diary Template.md",
     "__Templates/Company Template.md",
     "__Templates/Company Role Template.md",
     "__Templates/Person Template.md",
-    "Work/Projects/Secret_Project/Secret_Project.md",
-    "__Templates/Meetings/1on1 Meeting Template.md",
     "__Templates/Meetings/Standard Meeting Template.md",
     "__Templates/Location Template.md",
     "__attachments__/homepage.png",
