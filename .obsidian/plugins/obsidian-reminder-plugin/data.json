@@ -1,6 +1,29 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "__Tasks/Tasks.md": [
+      {
+        "title": "#task #projecta Do this before tommorow.",
+        "time": "2023-03-20",
+        "rowNumber": 3
+      },
+      {
+        "title": "%%[created:: 2023-03-12] %%   task with due next week",
+        "time": "2023-03-20",
+        "rowNumber": 5
+      },
+      {
+        "title": "%%[created:: 2023-03-19] %%  ** Check status of [[Secret_Project]] **",
+        "time": "2023-03-20 17:00",
+        "rowNumber": 8
+      },
+      {
+        "title": "%%[created:: 2025-01-02] %%  ** [[Test Project]] 테스트 **",
+        "time": "2025-01-03 12:00",
+        "rowNumber": 9
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

@@ -17,6 +17,7 @@ WHERE type = "project"
 WHERE contains(company, this.file.link) 
 ```
 
+
 ## Related People
 ```dataview 
 LIST
