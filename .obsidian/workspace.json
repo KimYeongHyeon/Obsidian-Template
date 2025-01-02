@@ -67,16 +67,6 @@
             }
           },
           {
-            "id": "f21241978f4f7090",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "9cc69511514858a3",
             "type": "leaf",
             "state": {
@@ -87,7 +77,7 @@
             }
           },
           {
-            "id": "b616f4a55574935f",
+            "id": "32e9ec2d381e7d83",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -97,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "5df69992e29d80ff",
@@ -239,8 +229,8 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "weather-fetcher:Insert Weather": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "weather-fetcher:Insert Weather": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -250,7 +240,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "5d212083dab5a2de",
+  "active": "42031d92e801ffcb",
   "lastOpenFiles": [
     "Homepage.md",
     "__attachments__/homepage.png",

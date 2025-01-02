@@ -5,7 +5,6 @@
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-emoji-toolbar",
-  "weather-fetcher",
   "obsidian-full-calendar",
   "templater-obsidian",
   "quickadd",
@@ -19,9 +18,9 @@
   "obsidian-image-toolkit",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "file-tree-alternative",
   "settings-management",
   "card-board",
   "omnisearch",
-  "obsidian-contextual-typography"
+  "obsidian-contextual-typography",
+  "file-tree-alternative"
 ]
