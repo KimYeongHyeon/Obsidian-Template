@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1d1acc0191d61c5",
+        "id": "88c4fd203802bee2",
         "type": "tabs",
         "children": [
           {
-            "id": "ef59d44a3e4f955a",
+            "id": "42031d92e801ffcb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -95,19 +95,9 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
-          },
-          {
-            "id": "4de1d320c981bedb",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "5df69992e29d80ff",
@@ -256,10 +246,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "ef59d44a3e4f955a",
+  "active": "42031d92e801ffcb",
   "lastOpenFiles": [
     "Homepage.md",
     "__attachments__/homepage.png",
