@@ -9,6 +9,7 @@ tags: #mom #meeting
 ## Info 📑
 
 - [topic:: ] 
+- [project:: ] 
 - [location:: ] 
 - [date::  <% tp.file.creation_date() %>  ]
 - [participants:: [[Person A]], [[Person B]] ]

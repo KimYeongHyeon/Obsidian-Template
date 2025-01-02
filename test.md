@@ -9,7 +9,6 @@ tags: #mom #meeting
 ## Info 📑
 
 - [topic:: ] 
-- [project:: [[Test Project]]] 
 - [location:: ] 
 - [date::  2025-01-02 16:24  ]
 - [participants:: [[Person A]], [[Person B]] ]
@@ -23,7 +22,6 @@ tags: #mom #meeting
 
 ## Means of Meeting 
 - [[Person A]]  .....
-- [[Test Project]] ...
 
 
 ## Action Points 🏹
