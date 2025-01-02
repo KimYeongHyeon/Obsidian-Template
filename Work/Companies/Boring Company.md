@@ -1,17 +1,16 @@
 ---
-creation-date: 2023-03-04 17:38 
-modification-date: Sunday 5th March 2023 18:51:55
+creation-date: 2022-10-07 
+modification-date: 2022-10-07
 type: company
-tags: #company #client
+tags: #company
 ---	 
 
-- [company-name:: Boring Company  ]
+- [company-name:: DB손해보험  ]
 - [company-location:: ]
 - [company-description:: ]
 
 
 ## Related People
-
 ```dataview 
 LIST
 FROM !"Templates"

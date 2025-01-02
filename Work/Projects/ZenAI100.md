@@ -37,7 +37,6 @@ SORT row.file.day desc
 ```
 
 ## 🚀 Tasks Left
-
 ```dataview
 TASK
 from !"__Templates"
@@ -46,5 +45,13 @@ WHERE !completed
 WHERE contains(text, this.file.name)
 ```
 
+### ✅ Tasks Done
+```dataview
+table without id "[[" + file.name + "#^" + L.blockId + "|" + file.name + "]]" as "Date", regexreplace(L.text, "^\[\[.*?\]\]\s*", "") as List
+from "Diary"
+flatten file.lists as L
+where contains(this.file.inlinks, file.link) and contains(L.text, this.file.name)
+sort file.name asc
+```
 
 #project
