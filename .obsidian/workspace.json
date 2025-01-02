@@ -64,29 +64,19 @@
               "icon": "lucide-file",
               "title": "Diary-20250102"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "8d8df4ad4aaa25ef",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d51af150ea1166cf",
+            "id": "136a3580c5b4250e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Unsorted/Test Project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test Project"
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,7 +277,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "38d71583f96f16c2",
+  "active": "136a3580c5b4250e",
   "lastOpenFiles": [
     "__Unsorted/Test Project.md",
     "Diary/Diary-20250102.md",
