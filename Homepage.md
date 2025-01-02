@@ -7,10 +7,10 @@
 	- [[Fake Project 3]]
 
 - 💰 Budget review
-	- [[Q1 2022]]
-	- [[Q2 2022]]
-	- [[Q3 2022]]
-	- [[Q4 2022]]
+	- [[Q1 2025]]
+	- [[Q2 2025]]
+	- [[Q3 2025]]
+	- [[Q4 2025]]
 
 - 💆‍♂️ Tasks
 	- ✅ `$=dv.pages('').file.tasks.where(t => t.completed).length`
