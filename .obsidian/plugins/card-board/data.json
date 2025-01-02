@@ -5,13 +5,6 @@
       {
         "columns": [
           {
-            "tag": "undated",
-            "data": {
-              "collapsed": false,
-              "name": "Undated"
-            }
-          },
-          {
             "tag": "dated",
             "data": {
               "collapsed": false,
@@ -45,6 +38,13 @@
                 "tag": "after",
                 "data": 1
               }
+            }
+          },
+          {
+            "tag": "undated",
+            "data": {
+              "collapsed": false,
+              "name": "Undated"
             }
           },
           {
